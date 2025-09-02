@@ -4,7 +4,7 @@ body {
     text-align: center;
     display: flex;
     text-decoration: none;
-
+    
 }
 
 h1 { 
@@ -36,4 +36,9 @@ nav {
 a {
     text-decoration: none;
     margin-inline: 50px;
+}
+
+footer {
+    margin-inline-end: 10px;
+    font-size: 20px;
 }
