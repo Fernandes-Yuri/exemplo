@@ -1,9 +1,9 @@
 body {
-    
     background-color: azure;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     display: flex;
+    text-decoration: none;
 
 }
 
@@ -24,4 +24,16 @@ p {
     margin-right: 80px;
     margin-left: 80px;
 
+}
+
+nav { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: black;
+
+}
+
+a {
+    text-decoration: none;
+    margin-inline: 50px;
 }
