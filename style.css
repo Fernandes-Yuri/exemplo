@@ -1,0 +1,27 @@
+body {
+    
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: flex;
+
+}
+
+h1 { 
+    font-size: 140px;
+    background-color: rgba(0, 255, 255, 0.137);
+    margin-top: 5px;
+}
+
+h2 {
+    font-size: 60px;
+    color: rgba(0, 0, 0, 0.37);
+}
+
+p {
+    color: black;
+    text-align: justify;
+    margin-right: 80px;
+    margin-left: 80px;
+
+}
